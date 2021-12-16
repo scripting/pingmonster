@@ -1,0 +1,11 @@
+{
+	"name": "pingmonster",
+	"version": "0.4.0",
+	"author": "Dave Winer <dave@scripting.com>",
+	"main": "pingmonster.js",
+	"dependencies" : {
+		"daveutils": "*",
+		"daveappserver": "*",
+		"opml": "*"
+		} 
+	}
